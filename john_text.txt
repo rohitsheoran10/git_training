@@ -10,8 +10,16 @@ Adding another line by john
 merging the changes and resolving the conflict.
 
 
+Adding second line by john.
+
+
+
+
 Adding another line by Amber.
+
 
 
 Adding a line that Amber do not want to merge until 
 explicitly run the merge command.
+
+Adding the lines to be merged using the fetch command from Amber.
