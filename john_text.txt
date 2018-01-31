@@ -9,7 +9,14 @@ Adding another line by john
 
 merging the changes and resolving the conflict.
 
+
 Adding second line by john.
+
+
+
+
+Adding another line by Amber.
+
 
 
 Adding the lines to be merged using the fetch command from Amber.
