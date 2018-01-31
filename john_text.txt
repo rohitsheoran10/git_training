@@ -1,0 +1,3 @@
+Adding another line by Amber without knwoing that the file 
+has been updated by John and pushed to the remote 
+repository.
