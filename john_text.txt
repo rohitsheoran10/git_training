@@ -1,2 +1,11 @@
+
+Adding another line by Amber without knwoing that the file 
+has been updated by John and pushed to the remote 
+repository.
+
 adding a line from john's repo
+
 Adding another line by john
+
+merging the changes and resolving the conflict.
+
